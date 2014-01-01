@@ -17,6 +17,7 @@ namespace WPFSharpAndAnimation
     /// <summary>
     /// Ani_ButtonWithTimer.xaml 的交互逻辑
     /// </summary>
+    //使用Timer实现动画效果，下一例将使用WPF内置类来实现动画效果
     public partial class Ani_ButtonWithTimer : Window
     {
         const double initfontsize = 12;
